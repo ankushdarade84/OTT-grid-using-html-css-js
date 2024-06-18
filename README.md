@@ -12,7 +12,7 @@ CSS, and JavaScript. This task aims to test your skills in front-end development
 HTML: Structure your app. 
 CSS: Style your app for an appealing look. 
 JavaScript: Add dynamic and interactive functionalities
-<br>
+<br> 
 1. Homepage: 
 Recreate the layout and design of the OTT platform's homepage. 
 Include sections such as trending movies, series, and recommended content. 
