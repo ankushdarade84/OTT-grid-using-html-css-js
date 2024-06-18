@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Movie Title 1",
+      "description": "Description of Movie 1",
+      "image": "./assets/1.png"
+    },
+    {
+      "title": "Movie Title 2",
+      "description": "Description of Movie 2",
+      "image": "./assets/2.png"
+    },
+    {
+      "title": "Movie Title 3",
+      "description": "Description of Movie 3",
+      "image": "./assets/2.jpeg"
+    },
+    {
+        "title": "Movie Title 4",
+        "description": "Description of Movie 1",
+        "image": "./assets/4.png"
+      },
+      {
+        "title": "Movie Title 5",
+        "description": "Description of Movie 2",
+        "image": "./assets/5.png"
+      },
+      {
+        "title": "Movie Title 6",
+        "description": "Description of Movie 2",
+        "image": "./assets/netlogo.png"
+      },
+      {
+        "title": "Movie Title 7",
+        "description": "Description of Movie 2",
+        "image": "./assets/6.png"
+      },
+    
+      {
+        "title": "Movie Title 1",
+        "description": "Description of Movie 1",
+        "image": "./assets/1.png"
+      },
+      {
+        "title": "Movie Title 2",
+        "description": "Description of Movie 2",
+        "image": "./assets/2.png"
+      },
+      {
+        "title": "Movie Title 3",
+        "description": "Description of Movie 3",
+        "image": "./assets/2.jpeg"
+      },
+      {
+          "title": "Movie Title 4",
+          "description": "Description of Movie 1",
+          "image": "./assets/4.png"
+        },
+        {
+          "title": "Movie Title 5",
+          "description": "Description of Movie 2",
+          "image": "./assets/5.png"
+        },
+        {
+          "title": "Movie Title 6",
+          "description": "Description of Movie 2",
+          "image": "./assets/netlogo.png"
+        },
+        {
+          "title": "Movie Title 7",
+          "description": "Description of Movie 2",
+          "image": "./assets/6.png"
+        }
+      
+  ]
+  
