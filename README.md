@@ -25,7 +25,7 @@ If you're up for an extra challenge, include user authentication functionality.
 
 # Output
 web - https://ott-platfom.netlify.app/ <br>
-web - 
+web - https://ankushdarade84.github.io/OTT-grid-using-html-css-js/
 
 ![image](https://github.com/ankushdarade84/OTT-grid-using-html-css-js/assets/82811718/f6b956ee-8b2e-4ae9-9697-ef2cecd70cb6)
 
